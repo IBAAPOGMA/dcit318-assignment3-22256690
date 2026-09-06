@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GitHub\dcit318-assignment3-22256690\FinanceManagementSystem\bin\Debug\net10.0\FinanceManagementSystem.exe
+C:\Users\user\Documents\GitHub\dcit318-assignment3-22256690\FinanceManagementSystem\bin\Debug\net10.0\FinanceManagementSystem.deps.json
+C:\Users\user\Documents\GitHub\dcit318-assignment3-22256690\FinanceManagementSystem\bin\Debug\net10.0\FinanceManagementSystem.runtimeconfig.json
+C:\Users\user\Documents\GitHub\dcit318-assignment3-22256690\FinanceManagementSystem\bin\Debug\net10.0\FinanceManagementSystem.dll
+C:\Users\user\Documents\GitHub\dcit318-assignment3-22256690\FinanceManagementSystem\bin\Debug\net10.0\FinanceManagementSystem.pdb
+C:\Users\user\Documents\GitHub\dcit318-assignment3-22256690\FinanceManagementSystem\obj\Debug\net10.0\FinanceManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\dcit318-assignment3-22256690\FinanceManagementSystem\obj\Debug\net10.0\FinanceManagementSystem.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\dcit318-assignment3-22256690\FinanceManagementSystem\obj\Debug\net10.0\FinanceManagementSystem.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\dcit318-assignment3-22256690\FinanceManagementSystem\obj\Debug\net10.0\FinanceManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\dcit318-assignment3-22256690\FinanceManagementSystem\obj\Debug\net10.0\FinanceManagementSystem.sourcelink.json
+C:\Users\user\Documents\GitHub\dcit318-assignment3-22256690\FinanceManagementSystem\obj\Debug\net10.0\FinanceManagementSystem.dll
+C:\Users\user\Documents\GitHub\dcit318-assignment3-22256690\FinanceManagementSystem\obj\Debug\net10.0\refint\FinanceManagementSystem.dll
+C:\Users\user\Documents\GitHub\dcit318-assignment3-22256690\FinanceManagementSystem\obj\Debug\net10.0\FinanceManagementSystem.pdb
+C:\Users\user\Documents\GitHub\dcit318-assignment3-22256690\FinanceManagementSystem\obj\Debug\net10.0\FinanceManagementSystem.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\dcit318-assignment3-22256690\FinanceManagementSystem\obj\Debug\net10.0\ref\FinanceManagementSystem.dll
