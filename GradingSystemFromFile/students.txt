@@ -1,0 +1,5 @@
+101,Alice Smith,72
+102,Isabella Baapogma,95
+103,Kofi Agyekum,86
+104,Joana Lamptey,50
+105,Nhyira Dery,45

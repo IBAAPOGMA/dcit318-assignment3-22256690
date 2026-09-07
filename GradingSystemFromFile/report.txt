@@ -1,0 +1,5 @@
+Alice Smith (ID: 101): Score = 72, Grade = B
+Isabella Baapogma (ID: 102): Score = 95, Grade = A
+Kofi Agyekum (ID: 103): Score = 86, Grade = A
+Joana Lamptey (ID: 104): Score = 50, Grade = D
+Nhyira Dery (ID: 105): Score = 45, Grade = F

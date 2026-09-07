@@ -1,0 +1,15 @@
+C:\Users\user\Documents\GitHub\dcit318-assignment3-22256690\GradingSystemFromFile\bin\Debug\net10.0\GradingSystemFromFile.exe
+C:\Users\user\Documents\GitHub\dcit318-assignment3-22256690\GradingSystemFromFile\bin\Debug\net10.0\GradingSystemFromFile.deps.json
+C:\Users\user\Documents\GitHub\dcit318-assignment3-22256690\GradingSystemFromFile\bin\Debug\net10.0\GradingSystemFromFile.runtimeconfig.json
+C:\Users\user\Documents\GitHub\dcit318-assignment3-22256690\GradingSystemFromFile\bin\Debug\net10.0\GradingSystemFromFile.dll
+C:\Users\user\Documents\GitHub\dcit318-assignment3-22256690\GradingSystemFromFile\bin\Debug\net10.0\GradingSystemFromFile.pdb
+C:\Users\user\Documents\GitHub\dcit318-assignment3-22256690\GradingSystemFromFile\obj\Debug\net10.0\GradingSystemFromFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\dcit318-assignment3-22256690\GradingSystemFromFile\obj\Debug\net10.0\GradingSystemFromFile.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\dcit318-assignment3-22256690\GradingSystemFromFile\obj\Debug\net10.0\GradingSystemFromFile.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\dcit318-assignment3-22256690\GradingSystemFromFile\obj\Debug\net10.0\GradingSystemFromFile.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\dcit318-assignment3-22256690\GradingSystemFromFile\obj\Debug\net10.0\GradingSystemFromFile.sourcelink.json
+C:\Users\user\Documents\GitHub\dcit318-assignment3-22256690\GradingSystemFromFile\obj\Debug\net10.0\GradingSystemFromFile.dll
+C:\Users\user\Documents\GitHub\dcit318-assignment3-22256690\GradingSystemFromFile\obj\Debug\net10.0\refint\GradingSystemFromFile.dll
+C:\Users\user\Documents\GitHub\dcit318-assignment3-22256690\GradingSystemFromFile\obj\Debug\net10.0\GradingSystemFromFile.pdb
+C:\Users\user\Documents\GitHub\dcit318-assignment3-22256690\GradingSystemFromFile\obj\Debug\net10.0\GradingSystemFromFile.genruntimeconfig.cache
+C:\Users\user\Documents\GitHub\dcit318-assignment3-22256690\GradingSystemFromFile\obj\Debug\net10.0\ref\GradingSystemFromFile.dll
